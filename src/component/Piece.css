@@ -1,0 +1,6 @@
+.chess-piece{
+    background-size: 45px 45px;
+    background-repeat: no-repeat;
+    height: 45px;
+    width: 45px;
+}

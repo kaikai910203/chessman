@@ -1,0 +1,87 @@
+ 
+
+.computer{
+  width: 620px;
+  height: 65px;
+  font-size: 24px;
+  border: 2px solid #000000;
+  border-radius: 10px;
+  /* 選單的距離 */
+  margin-bottom: 20px;
+  background-color: #FFFFFF;
+} 
+.button-single{
+  width: 620px;
+  height: 65px;
+  font-size: 24px;
+  border: 2px solid #000000;
+  border-radius: 10px;
+  /* 選單的距離 */
+  margin-top: 50px;
+  margin-bottom: 20px;
+  background-color: #FFFFFF;
+} 
+.button-double{
+  width: 620px;
+  height: 65px;
+  font-size: 24px;
+  border: 2px solid #C8C8C8;
+  border-radius: 5px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.option{
+}
+
+#simple{
+  width: 150px;
+  height: 60px;
+  margin-right: 30px;
+  margin-left: 30px;
+  background-color: #4CAF50;
+  color: white;
+  border: 2px solid #000000;
+  border-radius: 10px;
+}
+#normal{
+  width: 150px;
+  height: 60px;
+  margin-right: 30px;
+  margin-left: 30px;
+  background-color: #008CBA;
+  color: white;
+  border: 2px solid #000000;
+  border-radius: 10px;
+}
+#difficult{
+  width: 150px;
+  height: 60px;
+  margin-right: 30px;
+  margin-left: 30px;
+  background-color: #f44336;
+  color: white;
+  border: 2px solid #000000;
+  border-radius: 10px;
+
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
